@@ -1,6 +1,6 @@
 package treinamento;
 
-public class Atribuição {
+public class Atribuicao {
 	public static void main(String[] args) {
 		
 		int a = 3;
